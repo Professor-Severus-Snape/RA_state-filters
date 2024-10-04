@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/v88fko68lpr5hjg4?svg=true)](https://ci.appveyor.com/project/Professor-Severus-Snape/ra-state-filters)
+
 # Портфолио с фильтрами
 
 Необходимо реализовать портфолио с фильтрами, аналогичное указанному на изображении:
